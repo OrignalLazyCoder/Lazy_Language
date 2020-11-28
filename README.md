@@ -6,8 +6,19 @@ This language interpreter only supports ".lca" file which means LazyCoderr + Arp
 Grammar of this can be found in Grammar.txt
 
 # How to use
-
 1. Clone this repository
 2. Run "python main.py arpit.lca" to run sample code file
 3. Run "python main.py" to open shell and code directly on shell
 4. Documentation will be uploaded soon. Stay tuned!
+
+# Example Code: 
+https://github.com/OrignalLazyCoder/Lazy_Language/blob/main/arpit.lca
+
+# Screenshots
+1. Output of arpit.lca
+
+![Screenshot of arpit.lca output](https://github.com/OrignalLazyCoder/Lazy_Language/blob/main/screenshots/arpit%20execution.png)
+
+2. Output on shell
+
+![Screenshot of lazy language shell](https://github.com/OrignalLazyCoder/Lazy_Language/blob/main/screenshots/shell.png)
