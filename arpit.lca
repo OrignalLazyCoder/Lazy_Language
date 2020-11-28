@@ -1,0 +1,29 @@
+FUN concat(string1, string2) -> string1 + string2
+
+FUN appendCool(string) -> string + " is cool!"
+
+FUN print_table(number)
+    FOR i = 1 TO 11 THEN
+        PRINT(i*number)
+    END
+END
+
+FUN map(element, func)
+    VAR result = []
+    FOR i = 0 TO LEN(element) THEN
+        APPEND(result, appendCool(element/i))
+    END
+
+    RETURN result
+END
+
+PRINT("-----------------------------------------")
+PRINT(concat("Greeting from ","LazyCoderr's Compiler"))
+PRINT("-----------------------------------------")
+PRINT("Table of 5")
+print_table(5)
+PRINT("-----------------------------------------")
+VAR res = map(["Arpit", "LaxyCoderr"],appendCool)
+FOR i = 0 TO LEN(res) THEN
+    PRINT(res/i)
+END
