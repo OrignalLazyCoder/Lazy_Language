@@ -9,6 +9,7 @@ Grammar of this can be found in Grammar.txt
 1. Clone this repository
 2. Run "python main.py arpit.lca" to run sample code file
 3. Run "python main.py" to open shell and code directly on shell
+4. Run "quit()" to exit from shell
 4. Documentation will be uploaded soon. Stay tuned!
 
 # Example Code: 

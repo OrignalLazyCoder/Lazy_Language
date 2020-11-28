@@ -14,7 +14,7 @@ def getFileText(name):
 
 while True and not compileFile:
     if len(sys.argv) < 2:
-        text = input('basic > ')
+        text = input('lazy > ')
         if text.strip() == "quit()": break
         if text.strip() == "": continue
     else:
