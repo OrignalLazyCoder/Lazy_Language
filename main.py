@@ -1,3 +1,6 @@
+import sys
+sys.path.insert(0, 'Interpreter')
+
 import Interpreter
 import sys
 
