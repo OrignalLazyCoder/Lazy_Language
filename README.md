@@ -3,6 +3,8 @@
 This project is a langauge interpreter that is capable of running one line code on shell and compile whole file.
 This language interpreter only supports ".lca" file which means LazyCoderr + Arpit.
 
+THIS IS NOT A REAL LANGUAGE. IT IS JUST A SMALL PROTOTYPE OF HOW REAL INTERPRETERS WORK!
+
 Grammar of this can be found in Grammar.txt
 
 # How to use
