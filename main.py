@@ -1,4 +1,4 @@
-import compiler
+import Interpreter
 import sys
 
 compileFile = False
@@ -21,7 +21,7 @@ while True and not compileFile:
         compileFile = True
         text = getFileText(sys.argv[1])
     if text != None:
-        result, error = compiler.run('<stdin>', text)
+        result, error = Interpreter.run('<stdin>', text)
 
         if error:
             print(error.as_string())
