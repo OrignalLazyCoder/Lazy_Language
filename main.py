@@ -11,13 +11,13 @@ def getFileText(name):
     if nameArray[len(nameArray) - 1] != 'lca':
         print('INVALID FILE EXTENTION')
         return None
-    f = open(name, 'r')
-    text = f.read()
+    file = open(name, 'r')
+    text = file.read()
     return text
 
 while True and not compileFile:
     if len(sys.argv) < 2:
-        text = input('lazy > ')
+        text = input('lazy >> ')
         if text.strip() == "quit()": break
         if text.strip() == "": continue
     else:
