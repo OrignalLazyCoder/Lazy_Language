@@ -1,4 +1,9 @@
 # LAZY LANGUAGE
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 ## A better language than JAVA, C++, Python, C, C#, Ruby, Swift, Haskel, Pascal and English! (JK)
 
 * This project is a langauge interpreter that is capable of running one line code on shell and compile whole file.
@@ -15,7 +20,7 @@ Grammar of this can be found in Grammar.txt
 4. Run "quit()" to exit from shell
 4. Documentation will be uploaded soon. Stay tuned!
 
-### For Glimpses Check Out the -> ![Example Code](https://github.com/OrignalLazyCoder/Lazy_Language/blob/main/arpit.lca)
+### For Glimpses Check Out the -> [Example Code](https://github.com/OrignalLazyCoder/Lazy_Language/blob/main/arpit.lca)
 ----------------------------------
 # Screenshots
 
